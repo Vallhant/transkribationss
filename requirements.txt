@@ -1,0 +1,6 @@
+flask==3.0.2
+pydub==0.25.1
+vosk==0.3.45
+numpy==1.26.4
+soundfile==0.12.1
+requests==2.31.0 
